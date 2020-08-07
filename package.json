@@ -1,0 +1,22 @@
+{
+  "name": "protoc-plugin",
+  "version": "1.0.0",
+  "description": "Front-end for protoc code generator plugins written in Node.js",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seishun/node-protoc-plugin.git"
+  },
+  "author": "Nikolai Vavilov <vvnicholas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seishun/node-protoc-plugin/issues"
+  },
+  "homepage": "https://github.com/seishun/node-protoc-plugin#readme",
+  "dependencies": {
+    "google-protobuf": "^3.12.4"
+  }
+}
